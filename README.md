@@ -10,4 +10,4 @@ I also made sure that the <h1>-<h3> tags were in sequential order.
 
 here is a screenshot of the website after I made these corrections.
 
-![](accessiblity/Assets/images/Horiseon%20website.png)
+![](assets/images/Horiseon%20website.png)
